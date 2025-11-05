@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">2048</string>
+    
+    <!-- 菜单 -->
+    <string name="action_statistics">统计</string>
+    <string name="action_settings">设置</string>
+    <string name="action_about">关于</string>
+    
+    <!-- 按钮 -->
+    <string name="btn_restart">重新开始</string>
+    <string name="btn_undo">撤销</string>
+    <string name="btn_hint">提示</string>
+    
+    <!-- 对话框 -->
+    <string name="dialog_restart_title">重新开始</string>
+    <string name="dialog_restart_message">确定要重新开始游戏吗？当前进度将丢失。</string>
+    <string name="dialog_win_title">恭喜！</string>
+    <string name="dialog_win_message">你达到了 2048！\n\n要继续挑战更高分数吗？</string>
+    <string name="dialog_game_over_title">游戏结束</string>
+    
+    <!-- 提示 -->
+    <string name="hint_up">建议: 向上 ↑</string>
+    <string name="hint_down">建议: 向下 ↓</string>
+    <string name="hint_left">建议: 向左 ←</string>
+    <string name="hint_right">建议: 向右 →</string>
+    
+    <!-- 统计 -->
+    <string name="stats_total_games">总游戏次数</string>
+    <string name="stats_total_moves">总移动次数</string>
+    <string name="stats_avg_moves">平均移动次数</string>
+    <string name="stats_best_score">最高分</string>
+</resources>
