@@ -264,7 +264,7 @@ Created with ❤️ by AI Assistant
 ## 📮 联系方式
 
 如有问题或建议，欢迎通过以下方式联系：
-- 📧 Email: your.email@example.com
+- 📧 Email: gdouhhq@gmail.com
 - 💬 Issues: [GitHub Issues](https://github.com/yourusername/Game2048/issues)
 
 ---
